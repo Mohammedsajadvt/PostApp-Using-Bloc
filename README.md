@@ -1,7 +1,7 @@
 # postblocapp
 
 <h1> A Flutter project.</h1>
-<p>A simple Post App Using Flutter.State Management Used Bloc. Api Used jsonplaceholder.A created Theme Change Functionality [Light,Dark]</p>
+<p>A simple Post App Using Flutter.State Management Used Bloc. Api Used jsonplaceholder.I created Theme Change Functionality [Light,Dark]</p>
 
 <h2>ScreenShot</h2>
 <div>
